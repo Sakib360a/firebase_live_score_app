@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693305952436",
+    "project_id": "flutter-apps-using-firebase",
+    "storage_bucket": "flutter-apps-using-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693305952436:android:95a3898d7ea93f72a36fe1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_live_score_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2IGdNCUrEPVxh1QXOplTYy-9i7LAPZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
